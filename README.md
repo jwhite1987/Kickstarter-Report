@@ -2,6 +2,7 @@
 
 ## Project Description
 
+- View [Tableau Visualization](https://public.tableau.com/views/KickstarterCampaigns_16872229265050/KickstarterCampaignsbyCountry?:language=en-US&:display_count=n&:origin=viz_share_link)
 -  The goal of this project is to use the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects to uncover some market trends.
 - Then, while the dates stored within the `deadline` and `launched_at` columns use Unix timestamps, convert the dates using this [formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) that can be used to convert these timestamps to a normal date.
 - After that, create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years` and create a pivot chart line graph that visualizes this new table.
